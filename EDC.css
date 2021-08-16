@@ -1,0 +1,87 @@
+#img-div {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  #ac {
+    text-transform: uppercase;
+    font-family: Georgia;
+    text-align: center;
+    background-color: #f2f2f2;
+  }
+  #image {
+    background-color: white;
+    font-size: 5px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30% 20px 30%;
+    display: block;
+  }
+  #image:hover {
+    width: 45%;
+    height: auto;
+    padding: 20px 20%;
+  }
+  #img-caption {
+    text-align: center;
+    font-size: medium;
+    font-variant-caps: petite-caps;
+  }
+  .psp {
+    font-variant-caps: petite-caps;
+    text-align: center;
+    border: solid;
+    margin: 5%;
+    box-shadow: 0 8px 14px 0 #000000;
+    width: 80%;
+    height: 10%;
+    padding: 0.5% 5%;
+    margin-bottom: 5%;
+    background-color: #f2f2f2;
+  }
+  .iop {
+    text-align: right;
+  }
+  #lsq {
+    background-color: #f2f2f2;
+  }
+  #tribute-link {
+    color: teal;
+  }
+  #poss {
+    font-size: 17px;
+    width: 80%;
+    font-family: Tahoma;
+    font-variant-caps: petite-caps;
+    text-align: center;
+    position: static;
+    display: block;
+    justify-content: center;
+  }
+  #tribute-info {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 17px;
+    font-family: Tahoma;
+    font-variant-caps: petite-caps;
+    text-align: justify;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 #000000;
+    transition: 0.3s;
+    width: 220px;
+    height: 150px;
+    padding: 2% 5%;
+    float: left;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    background-color: #f2f2f2;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 5);
+    background-color: #ffffff;
+    transform: scale(1.2);
+  }
+  
